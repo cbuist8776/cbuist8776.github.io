@@ -3,10 +3,45 @@
 WSP COMPONENT LIBRARY STYLESHEET
 ================================================================================ */
 
+/* Body text, color, background image properties */
+
+body { font-family: Arial,Veranda,sans-serif;
+        background-color: #F7FE2E;
+        width: 86.486486486486%;
+        margin: 0 auto;
+    }
+    
+    /* body boarder properties */
+
+body {
+ 
+   border-style: solid;
+   border-color: #000000
+   
+   }
+   
+   
+   
+   /* Photo settings */
+   
+#Chad_Buist_Picture {
+	 
+	border: 8px solid #333;
+	width:  20.5%;
+	float: left;
+	}
+	
+	
+	/* Paragraph Settings */
+	
+	p {
+	
+		   margin: 1cm 1cm 1cm 1cm;
+		 
+		 }
+	
+   
+	
 
 
-/* HEADER SPECIFIC ======================================== */
 
-/* ABOUT SPECIFIC ======================================== */
-
-/* COMPONENTS SPECIFIC ======================================== */
