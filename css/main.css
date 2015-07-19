@@ -6,7 +6,7 @@ WSP COMPONENT LIBRARY STYLESHEET
 /* Body text, color, background image properties */
 
 body { font-family: Arial,Veranda,sans-serif;
-        background-color: #F7FE2E;
+        background-color: #78d1f4;
         width: 86.486486486486%;
         margin: 0 auto;
     }
@@ -24,12 +24,24 @@ body {
    
    /* Photo settings */
    
+#Logo {
+
+	float: left;
+	}
+
+   
 #Chad_Buist_Picture {
 	 
 	border: 8px solid #333;
 	width:  20.5%;
 	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
 	}
+
+	
 	
 	
 	/* Paragraph Settings */
@@ -39,8 +51,8 @@ body {
 		   margin: 1cm 1cm 1cm 1cm;
 		 
 		 }
+		 
 	
-   
 	
 
 
