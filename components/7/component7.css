@@ -5,4 +5,77 @@ COMPONENT STYLESHEET
 
 /* HEADER ======================================== */
 
+#top {
+
+background-color:  #cccccc;
+padding: 10px;
+margin-bottom:  40px;
+
+}
+
+#button1 {
+
+position: absolute;
+right:  150px;
+top:  15px;
+}
+
+ p{
+
+margin-bottom: 75px;
+
+font-size: 20px;
+
+}  
+
+#paragraph1 {
+
+font-weight: bold;
+font-size: 25px;
+}
+
+#paragraph2 {
+
+position: absolute;
+right: 1275px;
+top: 15px;
+}
+
+h2{
+
+color: #565655;
+font-weight: bold;
+font-size: 25px;
+margin-bottom: 20px;
+
+}
+
+#rectangle1 {
+
+width: 600px;
+    height:35px;
+    background: #ffffff;
+    border: 1px solid;
+    position: absolute;
+    right:  825px;
+    top:  225px
+    }
+    
+#rectangle2 {
+
+width: 600px;
+    height:35px;
+    background: #ffffff;
+    border: 1px solid;
+    position: absolute;
+    right:  825px;
+    top:  325px
+    }
+
+
+    
+
+
+
+
 /* HEADER ======================================== */

@@ -5,4 +5,128 @@ COMPONENT STYLESHEET
 
 /* HEADER ======================================== */
 
+body {
+
+
+background-color: #e5e5e1;
+
+}
+
+#one {
+
+position: absolute;
+    top: 130px;
+    right: 1000px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#one h2 {
+
+color: red;
+
+}
+
+
+
+
+
+#two {
+
+position: absolute;
+    top: 130px;
+    right: 700px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#two h2 {
+
+color: #b187f4
+}
+
+
+    
+#three {
+
+position: absolute;
+    top: 130px;
+    right: 400px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#three h2 {
+
+color: #ecf711;
+}
+    
+#four {
+
+position: absolute;
+    top: 130px;
+    right: 100px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#four h2 {
+
+color: green;
+
+}
+    
+    
+ul li {
+
+margin-bottom: 40px;
+
+}
+
+#one img {
+
+border-radius: 50%;
+position: absolute;
+right: 210px;
+
+   
+    
+}
+
+#two img {
+
+border-radius: 50%;
+position: absolute;
+right:  210px;
+}
+
+#three img {
+
+border-radius: 50%;
+position: absolute;
+right:  210px;
+}
+
+#four img {
+
+border-radius: 50%;
+position: absolute;
+right:  210px;
+} 
+
+
+
+
+
+
+
+    
+    
+    
+
+
+    
+
+
+
 /* HEADER ======================================== */

@@ -5,4 +5,169 @@ COMPONENT STYLESHEET
 
 /* HEADER ======================================== */
 
+h1 {
+
+color: #ffffff;
+
+background-color: #3514f4;
+
+font-family: "Times New Roman", Times, serif;
+
+font-style: normal;
+
+font-weight: bold;
+
+font-size: 25px;
+
+margin-top: 10px;
+
+
+}
+
+#one {
+
+position: absolute;
+    top: 130px;
+    right: 1200px;
+    width: 200px;
+    height: 100px;
+    }
+
+#two {
+
+position: absolute;
+    top: 130px;
+    right: 900px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#three {
+
+position: absolute;
+    top: 130px;
+    right: 600px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#four {
+
+position: absolute;
+    top: 130px;
+    right: 300px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#five {
+
+position: absolute;
+    top: 450px;
+    right: 1200px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#six {
+
+position: absolute;
+    top: 450px;
+    right: 900px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#seven {
+
+position: absolute;
+    top: 450px;
+    right: 600px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#eight {
+
+position: absolute;
+    top: 450px;
+    right: 300px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#nine {
+
+position: absolute;
+    top: 770px;
+    right: 1200px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#ten {
+
+position: absolute;
+    top: 770px;
+    right: 900px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#eleven {
+
+position: absolute;
+    top: 770px;
+    right: 600px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#twelve {
+
+position: absolute;
+    top: 770px;
+    right: 300px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#thirteen {
+
+position: absolute;
+    top: 1090px;
+    right: 1200px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#fourteen {
+
+position: absolute;
+    top: 1090px;
+    right: 900px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#fifteen {
+
+position: absolute;
+    top: 1090px;
+    right: 600px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#sixteen {
+
+position: absolute;
+    top: 1090px;
+    right: 300px;
+    width: 200px;
+    height: 100px;
+    }
+    
+    
+
 /* HEADER ======================================== */

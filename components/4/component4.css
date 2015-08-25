@@ -5,4 +5,69 @@ COMPONENT STYLESHEET
 
 /* HEADER ======================================== */
 
+h1 {
+
+font-family: "Times New Roman", Times, serif;
+
+font-style: normal;
+
+font-size: 25px;
+
+color: #924eea;
+
+margin-bottom: 90px;
+
+}
+
+h2 {
+
+font-family: "Times New Roman", Times, serif;
+
+font-style: normal;
+
+font-size: 20px;
+
+color: #924eea;
+
+margin-bottom: 20px;
+
+margin-top: 30px;
+}
+
+#Dewalt {
+
+position: absolute;
+    top: 130px;
+    right: 1200px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#Makita {
+
+position: absolute;
+    top: 130px;
+    right: 700px;
+    width: 200px;
+    height: 100px;
+    }
+    
+#BlackandDecker {
+
+position: absolute;
+    top: 130px;
+    right: 200px;
+    width: 200px;
+    height: 100px;
+    }
+    
+p {
+
+color: grey;
+
+}
+
+
+
+
 /* HEADER ======================================== */
