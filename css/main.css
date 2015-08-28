@@ -5,10 +5,16 @@ WSP COMPONENT LIBRARY STYLESHEET
 
 /* Body text, color, background image properties */
 
+
+
+
+
 body { font-family: Arial,Veranda,sans-serif;
         background-color: #78d1f4;
         width: 86.486486486486%;
         margin: 0 auto;
+        height: 100%;
+        width: 100%;
     }
     
     /* body boarder properties */
