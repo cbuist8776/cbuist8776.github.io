@@ -5,38 +5,37 @@ COMPONENT STYLESHEET
 
 /* HEADER ======================================== */
 
+header {
+	max-width: 960px;
+	margin: auto;
+}
+
+#account {
+	float: right;
+}
+
+#account a {
+	color: #000000;
+	padding: 10px;
+	
+}
+
 li {
-
-display: inline;
-
+	display: inline-block;
 }
 
-#upper {
 
-float: right;
-
-}
 
 nav {
-
-
-
-background-color: #7c4add;
-
+	background-color: #7c4add;
 }
 
-#upper2 a {
 
-color: #000000;
-padding: 10px;
 
-}
-
-#lower a {
-
-color: #ffffff;
-padding: 10px;
-
+nav a {
+	color: #ffffff;
+	padding: 10px;
+	display: block;
 }
 
 
