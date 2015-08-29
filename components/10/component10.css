@@ -14,36 +14,30 @@ text-align: right;
 
 h1 {
 
-margin-top: 10px;
-margin-bottom: 10px;
-
-font-family: "Times New Roman", Times, serif;
-font-size: 40px;
-
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
 }
 
 #Chris {
 
-margin-top: 10px;
-margin-bottom: 10px;
-
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 #Ryan {
 
-border-style: solid;
-border-width: 1px;
-
+	border-style: solid;
+	border-width: 1px;
 }
 
 nav {
 
-border-style: solid;
-border-width: 1px;
-background-color: #cccccc;
-padding: 20px;
-
-
+	border-style: solid;
+	border-width: 1px;
+	background-color: #cccccc;
+	padding: 20px;
 }
 
 

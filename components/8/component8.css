@@ -7,24 +7,19 @@ COMPONENT STYLESHEET
 
 body {
 
-background-color: #eaeae8
-
+	background-color: #eaeae8
 }
 
 img {
 
-margin-top:  30px;
-
-margin-bottom:  20px;
-
-margin-left:  30px;
-
+	margin-top:  30px;
+	margin-bottom:  20px;
+	margin-left:  30px;
 }
 
 p {
 
-margin-left: 30px;
-
+	margin-left: 30px;
 }
 
 /* HEADER ======================================== */

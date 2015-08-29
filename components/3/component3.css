@@ -7,14 +7,12 @@ COMPONENT STYLESHEET
 
 body {
 
-
-background-color: #e5e5e1;
-
-}
+	background-color: #e5e5e1;
+	}
 
 #one {
 
-position: absolute;
+	position: absolute;
     top: 130px;
     right: 1000px;
     width: 200px;
@@ -23,8 +21,7 @@ position: absolute;
     
 #one h2 {
 
-color: red;
-
+	color: red;
 }
 
 
@@ -33,7 +30,7 @@ color: red;
 
 #two {
 
-position: absolute;
+	position: absolute;
     top: 130px;
     right: 700px;
     width: 200px;
@@ -42,14 +39,14 @@ position: absolute;
     
 #two h2 {
 
-color: #b187f4
+	color: #b187f4
 }
 
 
     
 #three {
 
-position: absolute;
+	position: absolute;
     top: 130px;
     right: 400px;
     width: 200px;
@@ -58,12 +55,12 @@ position: absolute;
     
 #three h2 {
 
-color: #ecf711;
+	color: #ecf711;
 }
     
 #four {
 
-position: absolute;
+	position: absolute;
     top: 130px;
     right: 100px;
     width: 200px;
@@ -72,46 +69,43 @@ position: absolute;
     
 #four h2 {
 
-color: green;
+	color: green;
 
 }
     
     
 ul li {
 
-margin-bottom: 40px;
+	margin-bottom: 40px;
 
 }
 
 #one img {
 
-border-radius: 50%;
-position: absolute;
-right: 210px;
-
-   
-    
-}
+	border-radius: 50%;
+	position: absolute;
+	right: 210px;
+	}
 
 #two img {
 
-border-radius: 50%;
-position: absolute;
-right:  210px;
+	border-radius: 50%;
+	position: absolute;
+	right:  210px;
 }
 
 #three img {
 
-border-radius: 50%;
-position: absolute;
-right:  210px;
+	border-radius: 50%;
+	position: absolute;
+	right: 210px;
 }
 
 #four img {
 
-border-radius: 50%;
-position: absolute;
-right:  210px;
+	border-radius: 50%;
+	position: absolute;
+	right:  210px;
 } 
 
 
