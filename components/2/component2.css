@@ -67,6 +67,15 @@ h3 {
 	font-weight: bold;
 }
 
+#form {
+
+	background-color: yellow;
+	width: 200px;
+	display: inline-block;
+	margin: 100px;
+
+}
+
 
 
 
