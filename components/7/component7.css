@@ -7,10 +7,17 @@ COMPONENT STYLESHEET
 
 #top {
 
-	background-color:  #cccccc;
+	display: block;
+	background-color:  #e5e1e1;
 	padding: 10px;
-	margin-bottom:  40px;
+	margin-bottom:  20px;
 }
+
+	/* #top a {
+
+	color: #ffffff;
+	background-color: #cccccc;
+	}  */
 
 #button1 {
 
